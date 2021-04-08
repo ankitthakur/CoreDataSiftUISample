@@ -1,0 +1,47 @@
+{
+    "contacts": [
+        {
+            "first_name": "Ankit",
+            "last_name": "Thakur",
+            "email_address": "test1@test.com",
+            "phone_number": 1234567890,
+            "job_title": "Job Title 1",
+            "location_country": "Sweden"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "Lawrence",
+            "email_address": "joseph@test.com",
+            "job_title": "Job Title 2",
+            "location_country": "USA"
+        },
+        {
+            "first_name": "Lawrence",
+            "last_name": "David",
+            "email_address": "david@test.com",
+            "job_title": "Job Title 3",
+            "location_country": "Netherland"
+        },
+        {
+            "first_name": "Robin",
+            "last_name": "Davidson",
+            "email_address": "robin@test.com",
+            "phone_number": 1234567891,
+            "job_title": "Job Title 4",
+            "location_country": "France"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "Butler",
+            "email_address": "martin@test.com",
+            "phone_number": 2234567890,
+            "location_country": "Germany"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Kamp",
+            "email_address": "john@test.com",
+            "location_country": "Swiftzerland"
+        }
+    ]
+}
